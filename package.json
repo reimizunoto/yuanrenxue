@@ -1,0 +1,18 @@
+{
+  "name": "yuanrenxue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reimizunoto/yuanrenxue.git"
+  },
+  "private": true,
+  "dependencies": {
+    "btoa": "^1.2.1",
+    "crypto-js": "^4.2.0"
+  }
+}
