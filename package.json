@@ -12,6 +12,7 @@
   },
   "private": true,
   "dependencies": {
+    "@babel/parser": "^7.24.4",
     "btoa": "^1.2.1",
     "crypto-js": "^4.2.0"
   }
